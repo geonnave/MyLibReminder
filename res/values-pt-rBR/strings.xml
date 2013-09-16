@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Lib Reminder</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_loan">+Adicionar Empréstimo</string>
+    <string name="title_activity_add_loan">Adicionar Empréstimo</string>
+    <string name="title_activity_alarm_receiver">Alarme</string>
+    <string name="pick_date">Escolher data</string>
+    <string name="change_date">Mudar data</string>
+    <string name="replace_in">Devolver em </string>
+    <string name="days">dias </string>
+    <string name="reminder_saved">Empréstimo Salvo </string>
+    <string name="reminder_deleted">Empréstimo Excluído </string>
+    <string name="not_null">Nenhum campo pode ser nulo </string>
+    <string name="button_save">Salvar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="text_field_book_name">Nome do Livro</string>
+    <string name="text_field_library_name">Nome da Biblioteca</string>
+    <string name="stop_alarm">Parar Alarme</string>
+    <string name="alert">Opa, parece que você tem um livro pra devolver hoje!</string>
+
+</resources>
